@@ -44,7 +44,7 @@ export default function Hero() {
             <br />
             Gupta
           </h1>
-          <h2>Frontend Developer</h2>
+          <h2>Software Developer</h2>
           <span>
             <a href="https://twitter.com/" target="_blank">
               <img src={twitterIcon} alt="Twitter icon" />
